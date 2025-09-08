@@ -43,3 +43,18 @@ h5py
 
 # for reading byte data
 pybase64
+
+# añadidos por cathy
+numpy
+scikit-learn
+matplotlib
+pandas
+paramiko
+transformers
+timm
+pillow
+safetensors
+torchmetrics
+segmentation-models-pytorch
+
+
