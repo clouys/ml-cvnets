@@ -42,6 +42,7 @@ tensorboardX
 timm
 torchaudio
 torchdata
+torchvision==0.14.0
 torchmetrics
 torchtext
 tqdm
